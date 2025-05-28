@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "项目"
+title: ""
 permalink: /projects/
 author_profile: true
 redirect_from:
@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-# 2D横板平台跳跃游戏《Pink Jump》（Unity3D）
+**《Pink Jump》——2D横板平台跳跃游戏:video_game:**
 
-**2024-12 ~ 2025-01**
+:clock3:**2024-12 ~ 2025-01**
 
 项目描述：使用Unity3D编写的平面2D像素平台跳跃游戏，玩家可以控制角色进行移动，通过吃樱桃、躲避陷阱完成通关。
 
@@ -19,7 +19,8 @@ redirect_from:
 
 开发内容：独立完成全部流程，包括游戏设计、关卡设计、角色移动、死亡反馈、吃金币、UI设计、C#脚本编写、游戏菜单、游戏场景、网络资源搜集、游戏场景转换、通关结算等功能。
 
-**作品demo网页版链接：**https://play.unity.com/en/games/f04729d2-254d-4260-9660-288060134915/pinkjunpweb
+**作品demo网页版链接：**[Pink Jump](https://play.unity.com/en/games/f04729d2-254d-4260-9660-288060134915/pinkjunpweb)
+
 
 
 
