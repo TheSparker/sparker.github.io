@@ -1,3 +1,14 @@
+---
+layout: archive
+title: "项目"
+permalink: /projects/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
 # 2D横板平台跳跃游戏《Pink Jump》（Unity3D）
 
 **2024-12 ~ 2025-01**
