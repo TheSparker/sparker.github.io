@@ -5,10 +5,10 @@ permalink: /together/
 author_profile: true
 redirect_from:
   - /resume
+
 ---
 
 {% include base_path %}
-
 
 <div style="
     max-width: 800px;
@@ -39,4 +39,28 @@ redirect_from:
 ">
     ——毛泽东
 </div>
+
+
+
+归根结底，本人理想是为更多人的幸福，身为程序员的体现那就是开发出能让更多人们变得更加开心快乐的软件，形式不限
+
+- 专业技术上对C/C++、Java、C#、Python、Android开发、Unity游戏开发等技术链有一定的开发经验
+
+- 具体形式上，近年来更加喜欢游戏开发，游戏经历还算丰富，对游戏设计理念有过简单学习
+
+- 喜欢二次元、游戏、魔方(Pb 37s)
+
+- 对马列毛有粗浅的学习，略知皮毛。
+
+除此之外，不论什么领域，本人都广交好友，欢迎各路天下豪杰。
+
+
+
+欢迎志同道合的朋友与我同行！
+
+
+
+联系方式：<wyaoxin@qq.com>
+
+
 
