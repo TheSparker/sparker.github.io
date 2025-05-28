@@ -7,6 +7,4 @@ redirect_from:
   - /about.html
 ---
 
-# 王耀鑫主页
-
 这里是介绍自己的内容
