@@ -25,12 +25,18 @@ main:
   
   - title: "项目"
     url: /projects/
+
+  - title: "与我同行"
+    url: /together/
+
+  #- title: "毕业设计"
+  #  url: /Graduation_Project/
     
-  - title: "简历"
-    url: /cv/
+  #- title: "简历"
+  #  url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
     
-  - title: "Guide"
-    url: /markdown/
+  #- title: "Guide"
+  #  url: /markdown/
