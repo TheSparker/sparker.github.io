@@ -21,7 +21,7 @@ redirect_from:
 
 **作品demo网页版链接：**[Pink Jump](https://play.unity.com/en/games/f04729d2-254d-4260-9660-288060134915/pinkjunpweb)
 
-![PinkJumpShow](./images/pinkjump.png)
+![PinkJumpShow](../images/pinkjump.png)
 
 
 
